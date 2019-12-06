@@ -1,0 +1,1 @@
+convert everything to context api instead of redux
